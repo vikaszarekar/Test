@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 # Test
-THis is DEV 1 change
+THis is Normal change
